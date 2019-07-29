@@ -1,4 +1,4 @@
-# Habari.. Chap Chap
+# NEWS API
 
 ## Built By 
 Yomi Rich

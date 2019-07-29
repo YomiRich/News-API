@@ -7,9 +7,9 @@ Yomi Rich
 News API is a web application that displays a list of various news sources. On choosing a news source, it will preview the top news articles of the day. Clicking a news article will redirect the user to read it fully from the news source. 
 
 ## User Stories
-These are the behaviours/features that the application implements for use by a user.
+These are the behaviours/features that the application implements:
 
-As a user I would like to:
+A user is able to :
 * See various news sources
 * Select the ones they prefer
 * See the top news articles from that news source

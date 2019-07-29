@@ -12,7 +12,7 @@ News API is a web application that displays a list of various news sources. On c
 These are the behaviours/features that the application implements:
 
 A user is able to :
-
+* See various news sources
 
 ## Specifications
 | Behaviour | Input | Output |

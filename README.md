@@ -27,12 +27,12 @@ A user is able to :
 
 
 ## SetUp / Installation Requirements
-### Prerequisites
-* python3.6
-* pip
-* virtualenv
 
-### Cloning
+ * python3.6
+ * pip
+
+
+## Cloning
 * In your terminal:
 
         $ git clone https://github.com/emdeechege/NewsApi/

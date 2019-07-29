@@ -13,6 +13,7 @@ These are the behaviours/features that the application implements:
 
 A user is able to :
 * See various news sources
+* Select the ones they prefer
 
 ## Specifications
 | Behaviour | Input | Output |

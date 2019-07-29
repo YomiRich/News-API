@@ -4,6 +4,7 @@
 Yomi Rich
 
 ## Description
+
 News API is a web application that displays a list of various news sources. On choosing a news source, it will preview the top news articles of the day. Clicking a news article will redirect the user to read it fully from the news source. 
 
 ## User Stories
@@ -33,12 +34,14 @@ A user is able to :
 
 
 ## Cloning
+
 In your terminal:
 
  * git clone https://github.com/YomiRich/News-API.git
  * cd News-API
 
 ## Running the Application
+
 * Creating the virtual environment
 
         $ python3.6 -m venv --without-pip virtual

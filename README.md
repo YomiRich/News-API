@@ -15,6 +15,8 @@ A user is able to :
 * See various news sources
 * Select the ones they prefer
 * See the top news articles from that news source
+* See the image, description and time the news article was created
+
 
 ## Specifications
 | Behaviour | Input | Output |

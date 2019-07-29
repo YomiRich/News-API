@@ -5,7 +5,7 @@ Yomi Rich
 
 ## Description
 
-News API is a web application that displays a list of various news sources.
+News API is a web application that displays a list of various news sources. On choosing a news source, it will preview the top news articles of the day. 
 
 ## Specifications
 | Behaviour | Input | Output |

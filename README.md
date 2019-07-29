@@ -33,10 +33,10 @@ A user is able to :
 
 
 ## Cloning
-* In your terminal:
+In your terminal:
 
-        $ git clone https://github.com/emdeechege/NewsApi/
-        $ cd NewsPI
+ * git clone https://github.com/YomiRich/News-API.git
+ * cd News-API
 
 ## Running the Application
 * Creating the virtual environment

@@ -14,6 +14,7 @@ These are the behaviours/features that the application implements:
 A user is able to :
 * See various news sources
 * Select the ones they prefer
+* See the top news articles from that news source
 
 ## Specifications
 | Behaviour | Input | Output |

@@ -1,4 +1,4 @@
-import unittest.
+import unittest
 from app.models import Article
 
 class ArticleTest(unittest.TestCase):
